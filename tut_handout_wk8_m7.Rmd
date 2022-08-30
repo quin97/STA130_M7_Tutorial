@@ -16,25 +16,24 @@ output: pdf_document
 
 #### This Week's Vocab (15-20 min) : 
 
-- Linear relationship
-- Approximately linear
-- Non-linear
+- Linear Association
+- Approximately Linear Relationship
+- Non-Linear Relationship
 - Correlation
-- Slope
-- Intercept
-- (Simple) linear regression
-- Regression model
-- Parameter
-- Regression coefficients
-- Fitted regression line
-- Explanatory/independent variable
-- Dependent variable
-- Measure of model fit
-- Coefficient of determination
-- Error
-- Residual
-- Least-squares
+- Intercept and Slope / Regression Coefficients / Parameters
+- Noise/Error
+- Simple Linear Regression Model / Normal Model
+- Explanatory/independent variable / Feature / Covariate / Predictor / Parameter?
+- Outcome / Response / Dependent variable
+- Fitted Regression Line
+- Residuals 
+-	Least-Squares
 - Least-squares estimator
+- Measure of model fit / Coefficient of determination R^2
+- Interpreting Simple Linear Model Regression
+- Indicator Variables
+- Scaling Data
+- Hypothesis Testing in Simple Linear Regression
 
 #### Discussion (30 min) : 
 
@@ -79,7 +78,7 @@ $~$
   - Based on your answer to part e, report the estimated values of your model and provide an interpretation of these values.  
   - How well does your model fit the data? Explain what the coefficient of determination means and provide an interpretation. 
 
-#### Work on project (25-30 min) : 
+#### Work on project (25-30 min) 
 
 \newpage
 #### Writing prompt (30 min) :  
@@ -107,22 +106,21 @@ The big boss at your company (Sunny Lang) has heard about how her competitors us
 
 ## Vocabulary  
 
-Linear relationship 
-- Approximately linear 
-- Non-linear 
-- Correlation 
-- Slope 
-- Intercept 
-- (Simple) linear regression 
-- Regression model 
-- Parameter 
-- Regression coefficients 
-- Fitted regression line 
-- Explanatory/independent variable 
-- Dependent variable 
-- Measure of model fit 
-- Coefficient of determination 
-- Error 
-- Residual 
-- Least-squares 
+- Linear Association
+- Approximately Linear Relationship
+- Non-Linear Relationship
+- Correlation
+- Intercept and Slope / Regression Coefficients / Parameters
+- Noise/Error
+- Simple Linear Regression Model / Normal Model
+- Explanatory/independent variable / Feature / Covariate / Predictor / Parameter?
+- Outcome / Response / Dependent variable
+- Fitted Regression Line
+- Residuals 
+-	Least-Squares
 - Least-squares estimator
+- Measure of model fit / Coefficient of determination R^2
+- Interpreting Simple Linear Model Regression
+- Indicator Variables
+- Scaling Data
+- Hypothesis Testing in Simple Linear Regression
